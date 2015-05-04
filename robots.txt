@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: 
+Allow: /home.htm
+Allow: /adults.htm
+Allow: /africa.htm
+Allow: /asia.htm
+Allow: /australia.htm
+Allow: /dtpnews.htm
+Allow: /europe.htm
+Allow: /expecting.htm
+Allow: /namerica.htm
+Allow: /newborns.htm
+Allow: /samerica.htm
+Allow: /teenagers.htm
+Allow: /toddlers.htm
+
+Sitemap: http://gsmith1745ex4a.azurewebsites.net/sitemap.xml
